@@ -31,7 +31,6 @@ Ensure you have the following installed:
 Execution Time (Optimized): 117.46461534500122 seconds
 ## **How to Run**
 ### **Clone the repository and Run the python script**
-    ```sh 
     git clone https://github.com/Rumba19/Optimized
     cd Optimized
     python3 matrix_optimization.py
